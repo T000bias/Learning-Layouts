@@ -1,0 +1,9 @@
+#main {
+  border: 5px solid black;
+  width: 600px;
+
+  /* Using max-width instead of width in this situation will improve the browser's handling of smalla windows. */
+  /* max-width: 600px; */
+  margin: 0 auto;
+
+}
